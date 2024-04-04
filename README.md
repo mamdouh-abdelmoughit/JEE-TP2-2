@@ -6,8 +6,6 @@
 <h4>ProductRepository</h4>
 <img src="Captures/productRepo.png">
 <h4>Gestion de produit</h4>
-<h4>Ajouter Produit</h4>
-<img src="Captures/Ajouter.png">
 <h5>lister</h5>
 <img src="Captures/lister.png">
 <h5>chercher</h5>
